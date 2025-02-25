@@ -4,6 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  www.linkedin.com/in/gulbahar-necefzade-07b338251
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
